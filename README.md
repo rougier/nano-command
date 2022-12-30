@@ -1,8 +1,8 @@
 ## N Λ N O Command
 
-Nano command allows to ask user to enter some text in the mode-line or
+Nano command allows the user to enter some text in the mode-line or
 the header-line (instead of the minibuffer area). This can be used for
-entering quick commands that do not need all the mnibuffer machinery.
+entering quick commands that do not need all the minibuffer machinery.
 
 ### Installation
 
