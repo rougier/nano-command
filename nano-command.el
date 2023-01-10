@@ -196,6 +196,9 @@ position. This method can be safely advised if user needs to display the command
       command))
 
 
+(provide 'nano-command)
+;;; nano-command.el ends here
+
 ;; ----------------------------------------------------------------------------
 ;; (set-face-attribute 'nano-command-face nil
 ;;                     :background (face-background 'nano-subtle)
